@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>VMware Docs: updates for VMware Workspace ONE UEM</title>
+<subtitle>Keep up with the latest updates and improvements to VMware Workspace ONE UEM product documentation.</subtitle>
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/index.html"/>
+<updated>2021-01-20T03:01:32-08:00</updated>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/index.html</id>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2011 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2011/rn/VMware-Workspace-ONE-UEM-Release-Notes-2011.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2011/rn/VMware-Workspace-ONE-UEM-Release-Notes-2011.html</id>
+<updated>2021-01-19T12:43:14-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM Console Documentation</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/WorkspaceONEUEMDocumentation.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/WorkspaceONEUEMDocumentation.html</id>
+<updated>2021-01-19T11:23:30-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Workspace-ONE-Product.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Workspace-ONE-Product.html</id>
+<updated>2021-01-15T09:06:14-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>Workspace ONE Assist for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Workspace-ONE-Assist-for-Android.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Workspace-ONE-Assist-for-Android.html</id>
+<updated>2021-01-10T20:58:48-08:00</updated>
+<author>
+<name>cvanepps</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2010 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2010/rn/VMware-Workspace-ONE-UEM-Release-Notes-2010.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2010/rn/VMware-Workspace-ONE-UEM-Release-Notes-2010.html</id>
+<updated>2021-01-12T12:16:03-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2008 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2008/rn/VMware-Workspace-ONE-UEM-Release-Notes-2008.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2008/rn/VMware-Workspace-ONE-UEM-Release-Notes-2008.html</id>
+<updated>2021-01-12T12:15:45-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Tunnel for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-Android-Release-Notes.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-Android-Release-Notes.html</id>
+<updated>2021-01-11T12:21:44-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2004 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2004/rn/VMware-Workspace-ONE-UEM-Release-Notes-2004.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2004/rn/VMware-Workspace-ONE-UEM-Release-Notes-2004.html</id>
+<updated>2021-01-11T11:51:51-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2007 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2007/rn/VMware-Workspace-ONE-UEM-Release-Notes-2007.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2007/rn/VMware-Workspace-ONE-UEM-Release-Notes-2007.html</id>
+<updated>2021-01-11T11:44:30-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2003 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2003/rn/VMware-Workspace-ONE-UEM-Release-Notes-2003.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2003/rn/VMware-Workspace-ONE-UEM-Release-Notes-2003.html</id>
+<updated>2021-01-11T11:38:50-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2005 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2005/rn/VMware-Workspace-ONE-UEM-Release-Notes-2005.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2005/rn/VMware-Workspace-ONE-UEM-Release-Notes-2005.html</id>
+<updated>2021-01-11T11:47:00-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE UEM™ Powered by AirWatch 2006 Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2006/rn/VMware-Workspace-ONE-UEM-Release-Notes-2006.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/2006/rn/VMware-Workspace-ONE-UEM-Release-Notes-2006.html</id>
+<updated>2021-01-11T11:43:20-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Content for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workpace-ONE-Content-for-Android.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workpace-ONE-Content-for-Android.html</id>
+<updated>2020-12-09T20:34:44-08:00</updated>
+<author>
+<name>sbiju</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Intelligent Hub for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Introducing-VMware-Workspace-ONE-Intelligent-Hub-for-Android.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/Introducing-VMware-Workspace-ONE-Intelligent-Hub-for-Android.html</id>
+<updated>2021-01-05T09:18:24-08:00</updated>
+<author>
+<name>tburrell</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Tunnel for iOS Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-iOS.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-iOS.html</id>
+<updated>2021-01-05T08:58:30-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Tunnel for macOS Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-macOS.html"/>
+<link rel="self" href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-macOS.html" type="application/atom+xml" />
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Tunnel-for-macOS.html</id>
+<updated>2021-01-05T08:59:42-08:00</updated>
+<author>
+<name>smadhan</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Cards for iOS Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Cards-for-iOS.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Cards-for-iOS.html</id>
+<updated>2021-01-05T02:03:52-08:00</updated>
+<author>
+<name>ayand</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Cards for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Cards-for-Android.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Cards-for-Android.html</id>
+<updated>2021-01-05T01:53:20-08:00</updated>
+<author>
+<name>ayand</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Notebook for Android Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Notebook-for-Android.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Notebook-for-Android.html</id>
+<updated>2021-01-05T01:48:31-08:00</updated>
+<author>
+<name>ayand</name>
+</author>
+</entry>
+<entry>
+<title>VMware Workspace ONE Notebook for iOS Release Notes</title>
+
+<link href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Notebook-for-iOS.html"/>
+<id>https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/rn/VMware-Workspace-ONE-Notebook-for-iOS.html</id>
+<updated>2021-01-05T01:44:40-08:00</updated>
+<author>
+<name>ayand</name>
+</author>
+</entry>
+</feed>
